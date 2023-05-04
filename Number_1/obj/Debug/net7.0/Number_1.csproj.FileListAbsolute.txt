@@ -1,0 +1,15 @@
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/bin/Debug/net7.0/Number_1
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/bin/Debug/net7.0/Number_1.deps.json
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/bin/Debug/net7.0/Number_1.runtimeconfig.json
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/bin/Debug/net7.0/Number_1.dll
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/bin/Debug/net7.0/Number_1.pdb
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/Number_1.csproj.AssemblyReference.cache
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/Number_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/Number_1.AssemblyInfoInputs.cache
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/Number_1.AssemblyInfo.cs
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/Number_1.csproj.CoreCompileInputs.cache
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/Number_1.dll
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/refint/Number_1.dll
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/Number_1.pdb
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/Number_1.genruntimeconfig.cache
+/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Number_1/obj/Debug/net7.0/ref/Number_1.dll

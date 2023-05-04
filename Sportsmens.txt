@@ -1,0 +1,7 @@
+Vladimir male 5
+Evgheni male 4
+Alina female 5
+Victor male 7
+Valentin male 4
+Taya female 5
+Nasty female 8

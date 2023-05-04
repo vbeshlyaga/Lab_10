@@ -1,0 +1,8 @@
+       Имя       Пол   Норматив  Результат
+   Evgheni      male       сдал       4
+  Valentin      male       сдал       4
+     Alina    female      сдала       5
+  Vladimir      male       сдал       5
+      Taya    female      сдала       5
+    Victor      male    не сдал       7
+     Nasty    female   не сдала       8
