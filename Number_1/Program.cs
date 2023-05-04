@@ -6,7 +6,7 @@ public class Test
     {
         
         
-        StreamReader reader = new StreamReader(@"/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/Sportsmens.txt");
+        StreamReader reader = new StreamReader(@"путь до файла");
         string line;
         int index = 0;
         
@@ -22,7 +22,7 @@ public class Test
 
         sportsmens = Sort(sportsmens);
         
-        StreamWriter writer = new StreamWriter(@"/Users/valentin/Downloads/University/II семестр 2023/ООП/New_Laboratories/Lab_9/Number_1/SortSportsmens.txt");
+        StreamWriter writer = new StreamWriter(@"путь до файла");
         writer.WriteLine("       Имя       Пол   Норматив  Результат");
         foreach (var sportsmen in sportsmens)
         {
